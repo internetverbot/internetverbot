@@ -11,20 +11,20 @@ text, tspan {white-space: pre;}
 <rect width="970px" height="530px" fill="#161b22" rx="15"/>
 
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">⣿⣿⣷⡁⢆⠈⠕⢕⢂⢕⢂⢕⢂⢔⢂⢕⢄⠂⣂⠂⠆⢂⢕⢂⢕⢂⢕⢂⢕⢂</tspan>
-<tspan x="15" y="50">⣿⣿⣿⡷⠊⡢⡹⣦⡑⢂⢕⢂⢕⢂⢕⢂⠕⠔⠌⠝⠛⠶⠶⢶⣦⣄⢂⢕⢂⢕</tspan>
-<tspan x="15" y="70">⣿⣿⠏⣠⣾⣦⡐⢌⢿⣷⣦⣅⡑⠕⠡⠐⢿⠿⣛⠟⠛⠛⠛⠛⠡⢷⡈⢂⢕⢂</tspan>
-<tspan x="15" y="90">⠟⣡⣾⣿⣿⣿⣿⣦⣑⠝⢿⣿⣿⣿⣿⣿⡵⢁⣤⣶⣶⣿⢿⢿⢿⡟⢻⣤⢑⢂</tspan>
-<tspan x="15" y="110">⣾⣿⣿⡿⢟⣛⣻⣿⣿⣿⣦⣬⣙⣻⣿⣿⣷⣿⣿⢟⢝⢕⢕⢕⢕⢽⣿⣿⣷⣔</tspan>
-<tspan x="15" y="130">⣿⣿⠵⠚⠉⢀⣀⣀⣈⣿⣿⣿⣿⣿⣿⣿⣿⣗⢕⢕⢕⢕⢕⢕⣽⣿⣿⣿⣿</tspan>
-<tspan x="15" y="150">⢷⣂⣠⣴⣾⡿⡿⡻⡻⣿⣿⣴⣿⣿⣿⣿⣿⣿⣷⣵⣵⣵⣷⣿⣿⣿⣿⣿⣿⡿</tspan>
-<tspan x="15" y="170">⢌⠻⣿⡿⡫⡪⡪⡪⡪⣺⣿⣿⣿⣿⣿⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃</tspan>
-<tspan x="15" y="190">⠣⡁⠹⡪⡪⡪⡪⣪⣾⣿⣿⣿⣿⠋⠐⢉⢍⢄⢌⠻⣿⣿⣿⣿⣿⣿⣿⠏⠈</tspan>
-<tspan x="15" y="210">⡣⡘⢄⠙⣾⣾⣾⣿⣿⣿⣿⣿⣿⡀⢐⢕⢕⢕⢕⢕⡘⣿⣿⣿⣿⣿⣿⠏⠠⠈</tspan>
-<tspan x="15" y="230">⠌⢊⢂⢣⠹⣿⣿⣿⣿⣿⣿⣿⣿⣧⢐⢕⢕⢕⢕⢕⢅⣿⣿⣿⣿⡿⢋⢜⠠⠈</tspan>
-<tspan x="15" y="250">⠄⠁⠕⢝⡢⠈⠻⣿⣿⣿⣿⣿⣿⣿⣷⣕⣑⣑⣑⣵⣿⣿⣿⡿⢋⢔⢕⣿⠠⠈</tspan>
-<tspan x="15" y="270">⠨⡂⡀⢑⢕⡅⠂⠄⠉⠛⠻⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢋⢔⢕⢕⣿⣿⠠⠈</tspan>
-<tspan x="15" y="290">⠄⠪⣂⠁⢕⠆⠄⠂⠄⠁⡀⠂⡀⠄⢈⠉⢍⢛⢛⢛⢋⢔⢕⢕⢕⣽⣿⣿⠠⠈</tspan>
+<tspan x="15" y="70">⣿⣿⣷⡁⢆⠈⠕⢕⢂⢕⢂⢕⢂⢔⢂⢕⢄⠂⣂⠂⠆⢂⢕⢂⢕⢂⢕⢂⢕⢂</tspan>
+<tspan x="15" y="90">⣿⣿⣿⡷⠊⡢⡹⣦⡑⢂⢕⢂⢕⢂⢕⢂⠕⠔⠌⠝⠛⠶⠶⢶⣦⣄⢂⢕⢂⢕</tspan>
+<tspan x="15" y="110">⣿⣿⠏⣠⣾⣦⡐⢌⢿⣷⣦⣅⡑⠕⠡⠐⢿⠿⣛⠟⠛⠛⠛⠛⠡⢷⡈⢂⢕⢂</tspan>
+<tspan x="15" y="130">⠟⣡⣾⣿⣿⣿⣿⣦⣑⠝⢿⣿⣿⣿⣿⣿⡵⢁⣤⣶⣶⣿⢿⢿⢿⡟⢻⣤⢑⢂</tspan>
+<tspan x="15" y="150">⣾⣿⣿⡿⢟⣛⣻⣿⣿⣿⣦⣬⣙⣻⣿⣿⣷⣿⣿⢟⢝⢕⢕⢕⢕⢽⣿⣿⣷⣔</tspan>
+<tspan x="15" y="170">⣿⣿⠵⠚⠉⢀⣀⣀⣈⣿⣿⣿⣿⣿⣿⣿⣿⣗⢕⢕⢕⢕⢕⢕⣽⣿⣿⣿⣿</tspan>
+<tspan x="15" y="190">⢷⣂⣠⣴⣾⡿⡿⡻⡻⣿⣿⣴⣿⣿⣿⣿⣿⣿⣷⣵⣵⣵⣷⣿⣿⣿⣿⣿⣿⡿</tspan>
+<tspan x="15" y="210">⢌⠻⣿⡿⡫⡪⡪⡪⡪⣺⣿⣿⣿⣿⣿⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃</tspan>
+<tspan x="15" y="230">⠣⡁⠹⡪⡪⡪⡪⣪⣾⣿⣿⣿⣿⠋⠐⢉⢍⢄⢌⠻⣿⣿⣿⣿⣿⣿⣿⠏⠈</tspan>
+<tspan x="15" y="250">⡣⡘⢄⠙⣾⣾⣾⣿⣿⣿⣿⣿⣿⡀⢐⢕⢕⢕⢕⢕⡘⣿⣿⣿⣿⣿⣿⠏⠠⠈</tspan>
+<tspan x="15" y="270">⠌⢊⢂⢣⠹⣿⣿⣿⣿⣿⣿⣿⣿⣧⢐⢕⢕⢕⢕⢕⢅⣿⣿⣿⣿⡿⢋⢜⠠⠈</tspan>
+<tspan x="15" y="290">⠄⠁⠕⢝⡢⠈⠻⣿⣿⣿⣿⣿⣿⣿⣷⣕⣑⣑⣑⣵⣿⣿⣿⡿⢋⢔⢕⣿⠠⠈</tspan>
+<tspan x="15" y="310">⠨⡂⡀⢑⢕⡅⠂⠄⠉⠛⠻⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢋⢔⢕⢕⣿⣿⠠⠈</tspan>
+<tspan x="15" y="330">⠄⠪⣂⠁⢕⠆⠄⠂⠄⠁⡀⠂⡀⠄⢈⠉⢍⢛⢛⢛⢋⢔⢕⢕⢕⣽⣿⣿⠠⠈</tspan>
 </text>
 
 <text x="370" y="30" fill="#c9d1d9">
@@ -43,8 +43,8 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="390" class="keyColor">Discord</tspan>: <tspan class="valueColor">kickalldev</tspan>
 <tspan x="370" y="450" class="keyColor">GitHub Stats</tspan>:
 <tspan x="370" y="470">——————</tspan>
-<tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">2</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">132</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">2,071  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">280</tspan>
-<tspan x="370" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">0 </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">441,544</tspan> (<tspan class="addColor">515,175++</tspan>, <tspan class="delColor">73,631--</tspan>)
+<tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">2</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">132</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">0  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">0</tspan>
+<tspan x="370" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">0 </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">0</tspan> (<tspan class="addColor">0</tspan>, <tspan class="delColor">0</tspan>)
 </text>
 
 </svg>
