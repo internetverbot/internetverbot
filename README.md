@@ -19,7 +19,7 @@
   <br>
   currently working on nothing 💤
   <br>
-  more about me: <a href="https://soon.de</a> <-- WIP 
+  more about me: <a href="https://soon.de</a>
   <br>
   <a href="https://discord.com/users/1214603080306524160">@kickalldev</a> |
   <br>
